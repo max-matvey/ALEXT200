@@ -21,14 +21,6 @@ a {
 	--main-color-text: #777;
 }
 
-.title-button, .col-12 button {
-	--background-color: #fed136;
-}
-
-.title span, .item-text, .item-text2, .item-text1, .col-12 {
-	--color: #777; 
-}
-
 /* header*/
 
 .header {
